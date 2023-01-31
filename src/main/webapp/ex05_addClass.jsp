@@ -44,12 +44,12 @@
 				<ul>
 				<li id="JSP">JSP</li>
 				<ul>
-					<li calss="bg1111">EL</li>
-					<li calss="bg1111">JSEL</li>
+					<li calss="bg1111">EL2</li>
+					<li calss="bg1111">JSEL2</li>
 				</ul>
-				<li>SPRING</li>
+				<li calss="bg1111">SPRING2</li>
 				</ul>
-				<li>ANDROID</li>
+				<li calss="bg1111">ANDROID2</li>
 		</ul>
 		<hr>
 		<div id ="box">눌러주세요</div>
